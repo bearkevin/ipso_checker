@@ -1,0 +1,316 @@
+- code: AppleTV2,1
+  name: Apple TV 2nd Gen
+- code: AppleTV3,1
+  name: Apple TV 3rd Gen Early 2012
+- code: AppleTV3,2
+  name: Apple TV 3rd Gen Early 2013
+- code: AppleTV5,3
+  name: Apple TV 4th Gen
+- code: AudioAccessory5,1
+  name: HomePod mini
+- code: iPad1,1
+  name: iPad 1st Gen
+- code: iPad2,1
+  name: iPad 2 Wi-Fi Only Intro.2011
+- code: iPad2,2
+  name: iPad 2 Wi-Fi/GSM
+- code: iPad2,3
+  name: iPad 2 Wi-Fi/CDMA
+- code: iPad2,4
+  name: iPad 2 Wi-Fi Only Intro.2012
+- code: iPad2,5
+  name: iPad mini 1st Wi-Fi
+- code: iPad2,6
+  name: iPad mini 1st Wi-Fi/AT&T
+- code: iPad2,7
+  name: iPad mini 1st Wi-Fi/VZ & Sprint
+- code: iPad3,1
+  name: iPad 3rd Wi-Fi Only
+- code: iPad3,2
+  name: iPad 3rd Wi-Fi/Verizon
+- code: iPad3,3
+  name: iPad 3rd Wi-Fi/AT&T
+- code: iPad3,4
+  name: iPad 4th Wi-Fi Only
+- code: iPad3,5
+  name: iPad 4th Cellular
+- code: iPad3,6
+  name: iPad 4th Cellular
+- code: iPad4,1
+  name: iPad Air 1st
+- code: iPad4,2
+  name: iPad Air 1st
+- code: iPad4,3
+  name: iPad Air 1st
+- code: iPad4,4
+  name: iPad mini 2
+- code: iPad4,5
+  name: iPad mini 2
+- code: iPad4,6
+  name: iPad mini 2
+- code: iPad4,7
+  name: iPad mini 3
+- code: iPad4,8
+  name: iPad mini 3
+- code: iPad4,9
+  name: iPad mini 3
+- code: iPad5,1
+  name: iPad mini 4
+- code: iPad5,2
+  name: iPad mini 4
+- code: iPad5,3
+  name: iPad Air 2
+- code: iPad5,4
+  name: iPad Air 2
+- code: iPad6,3
+  name: iPad Pro 9.7
+- code: iPad6,4
+  name: iPad Pro 9.7
+- code: iPad6,7
+  name: iPad Pro 12.9 1st
+- code: iPad6,8
+  name: iPad Pro 12.9 1st
+- code: iPad6,11
+  name: iPad 5th
+- code: iPad6,12
+  name: iPad 5th
+- code: iPad7,1
+  name: iPad Pro 12.9 2nd
+- code: iPad7,2
+  name: iPad Pro 12,9 2nd
+- code: iPad7,3
+  name: iPad Pro 10.5
+- code: iPad7,4
+  name: iPad Pro 10.5
+- code: iPad7,5
+  name: iPad 6th
+- code: iPad7,6
+  name: iPad 6th
+- code: iPad7,11
+  name: iPad 7th
+- code: iPad7,12
+  name: iPad 7th
+- code: iPad8,1
+  name: iPad Pro 11-inch 1st
+- code: iPad8,2
+  name: iPad Pro 11-inch 1st
+- code: iPad8,3
+  name: iPad Pro 11-inch 1st
+- code: iPad8,4
+  name: iPad Pro 11-inch 1st
+- code: iPad8,5
+  name: iPad Pro 12.9-inch 3rd
+- code: iPad8,6
+  name: iPad Pro 12.9-inch 3rd
+- code: iPad8,7
+  name: iPad Pro 12.9-inch 3rd
+- code: iPad8,8
+  name: iPad Pro 12.9-inch 3rd
+- code: iPad8,9
+  name: iPad Pro 11-inch 2nd
+- code: iPad8,10
+  name: iPad Pro 11-inch 2nd
+- code: iPad8,11
+  name: iPad Pro 12.9-inch 4th
+- code: iPad8,12
+  name: iPad Pro 12.9-inch 4th
+- code: iPad11,1
+  name: iPad mini 5th
+- code: iPad11,2
+  name: iPad mini 5th
+- code: iPad11,3
+  name: iPad Air 3rd
+- code: iPad11,4
+  name: iPad Air 3rd
+- code: iPad11,6
+  name: iPad 8th
+- code: iPad11,7
+  name: iPad 8th
+- code: iPad12,1
+  name: iPad 9th
+- code: iPad12,2
+  name: iPad 9th
+- code: iPad13,1
+  name: iPad Air 4th
+- code: iPad13,2
+  name: iPad Air 4th
+- code: iPad13,4
+  name: iPad Pro 11-inch 3rd
+- code: iPad13,5
+  name: iPad Pro 11-inch 3rd
+- code: iPad13,6
+  name: iPad Pro 11-inch 3rd
+- code: iPad13,7
+  name: iPad Pro 11-inch 3rd
+- code: iPad13,8
+  name: iPad Pro 12.9-inch 5th
+- code: iPad13,9
+  name: iPad Pro 12.9-inch 5th
+- code: iPad13,10
+  name: iPad Pro 12.9-inch 5th
+- code: iPad13,11
+  name: iPad Pro 12.9-inch 5th
+- code: iPad13,16
+  name: iPad Air 5th
+- code: iPad13,17
+  name: iPad Air 5th
+- code: iPad13,18
+  name: iPad 10th
+- code: iPad13,19
+  name: iPad 10th
+- code: iPad14,1
+  name: iPad mini 6th
+- code: iPad14,2
+  name: iPad mini 6th
+- code: iPad14,3
+  name: iPad Pro 11-inch 4th
+- code: iPad14,4
+  name: iPad Pro 11-inch 4th
+- code: iPad14,5
+  name: iPad Pro 12.9-inch 6th
+- code: iPad14,6
+  name: iPad Pro 12.9-inch 6th
+- code: iPad14,8
+  name: iPad Air M2
+- code: iPad14,9
+  name: iPad Air M2
+- code: iPad14,10
+  name: iPad Air M2
+- code: iPad14,11
+  name: iPad Pro Air M2
+- code: iPad16,3
+  name: iPad Pro M4
+- code: iPad16,4
+  name: iPad Pro M4
+- code: iPad16,5
+  name: iPad Pro M4
+- code: iPad16,6
+  name: iPad Pro M4
+- code: iPhone1,1
+  name: iPhone (Original)
+- code: iPhone1,2
+  name: iPhone 3G
+- code: iPhone2,1
+  name: iPhone 3GS
+- code: iPhone3,1
+  name: iPhone 4 (GSM)
+- code: iPhone3,2
+  name: iPhone 4 (GSM, 2012)
+- code: iPhone3,3
+  name: iPhone 4 (CDMA)
+- code: iPhone4,1
+  name: iPhone 4S
+- code: iPhone5,1
+  name: iPhone 5
+- code: iPhone5,2
+  name: iPhone 5
+- code: iPhone5,3
+  name: iPhone 5c
+- code: iPhone5,4
+  name: iPhone 5c
+- code: iPhone6,1
+  name: iPhone 5s
+- code: iPhone6,2
+  name: iPhone 5s
+- code: iPhone7,1
+  name: iPhone 6 Plus
+- code: iPhone7,2
+  name: iPhone 6
+- code: iPhone8,1
+  name: iPhone 6s
+- code: iPhone8,2
+  name: iPhone 6s Plus
+- code: iPhone8,4
+  name: iPhone SE (1st
+- code: iPhone9,1
+  name: iPhone 7
+- code: iPhone9,2
+  name: iPhone 7 Plus
+- code: iPhone9,3
+  name: iPhone 7
+- code: iPhone9,4
+  name: iPhone 7 Plus
+- code: iPhone10,1
+  name: iPhone 8
+- code: iPhone10,2
+  name: iPhone 8 Plus
+- code: iPhone10,3
+  name: iPhone X
+- code: iPhone10,4
+  name: iPhone 8
+- code: iPhone10,5
+  name: iPhone 8 Plus
+- code: iPhone10,6
+  name: iPhone X
+- code: iPhone11,2
+  name: iPhone XS
+- code: iPhone11,4
+  name: iPhone XS Max
+- code: iPhone11,6
+  name: iPhone XS Max
+- code: iPhone11,8
+  name: iPhone XR
+- code: iPhone12,1
+  name: iPhone 11
+- code: iPhone12,3
+  name: iPhone 11 Pro
+- code: iPhone12,5
+  name: iPhone 11 Pro Max
+- code: iPhone12,8
+  name: iPhone SE 2nd
+- code: iPhone13,1
+  name: iPhone 12 mini
+- code: iPhone13,2
+  name: iPhone 12
+- code: iPhone13,3
+  name: iPhone 12 Pro
+- code: iPhone13,4
+  name: iPhone 12 Pro Max
+- code: iPhone14,2
+  name: iPhone 13 Pro
+- code: iPhone14,3
+  name: iPhone 13 Pro Max
+- code: iPhone14,4
+  name: iPhone 13 mini
+- code: iPhone14,5
+  name: iPhone 13
+- code: iPhone14,6
+  name: iPhone SE 3rd
+- code: iPhone14,7
+  name: iPhone 14
+- code: iPhone14,8
+  name: iPhone 14 Plus
+- code: iPhone15,2
+  name: iPhone 14 Pro
+- code: iPhone15,3
+  name: iPhone 14 Pro Max
+- code: iPhone15,4
+  name: iPhone 15
+- code: iPhone15,5
+  name: iPhone 15 Plus
+- code: iPhone16,1
+  name: iPhone 15 Pro
+- code: iPhone16,2
+  name: iPhone 15 Pro Max
+- code: iPhone17,1
+  name: iPhone 16 Pro
+- code: iPhone17,2
+  name: iPhone 16 Pro Max
+- code: iPhone17,3
+  name: iPhone 16
+- code: iPhone17,4
+  name: iPhone 16 Plus
+- code: iPod1,1
+  name: iPod touch 1st 
+- code: iPod2,1
+  name: iPod touch 2nd
+- code: iPod3,1
+  name: iPod touch 3rd
+- code: iPod4,1
+  name: iPod touch 4th
+- code: iPod5,1
+  name: iPod touch 5th
+- code: iPod7,1
+  name: iPod touch 6th
+- code: iPod9,1
+  name: iPod touch 7th
