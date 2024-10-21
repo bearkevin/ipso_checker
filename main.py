@@ -6,9 +6,9 @@ def main():
     device_config = 'Database/device.yaml'
     conn = sqlite3.connect('Database/database.db')
     init_database(conn)
-    stt = get_updated_devices(conn,device_config)
+    device_list = get_updated_devices(conn, device_config)
     url_list = get_list_firmware_url(conn)
-    for version, devices in stt:
+    for version, devices in device_list:
         print(f"new version {version} found for devices below:")
         print(devices)
         print('-'*20)
